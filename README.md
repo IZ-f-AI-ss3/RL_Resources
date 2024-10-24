@@ -1,2 +1,2 @@
 # RL_Resources
-RL book and course , and some RL projects ...
+I found some interesting books and courses on Reinforcement Learning (RL) that I'd like to share here. If you're a student with an excellent math background and you love understanding machine learning algorithms from scratch, especially from a mathematical perspective (so you can really understand why something works, haha), I highly recommend exploring them! It's a great way to dive into new fields.
